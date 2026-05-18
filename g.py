@@ -1,1 +1,1 @@
-print("YOOOO * 3")
+print("YOOOO "* 3)
