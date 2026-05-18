@@ -1,14 +1,11 @@
 '''
-*
-**
-***
-****
-random sh#t
+  5
+ 45
+345
 ''' 
-
-for i in range (4,0,-1):
-    for s in range(i,1):
-        print("",end="")
-    for j in range(5,i,-1):
-        print("*",end="")
+for i in range(1, 5):
+    for s in range(3-i):
+        print(" ", end="")
+    for j in range(6-i,6):
+        print(j, end="")
     print()
