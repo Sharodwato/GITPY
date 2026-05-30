@@ -4,7 +4,7 @@
  123
 1234
 '''
-
+#example of a pattern 5
 n = 4  # number of rows
 
 for i in range(1,n+1):
