@@ -1,4 +1,5 @@
 text=input("Enter the string:: ")
+b=len(text)
 l=0
 u=0
 d=0
@@ -16,3 +17,4 @@ print(f"no of {l} lowercases")
 print(f"no of {u} uppercases")
 print(f"no of {d} digitcases")
 print(f"no of {s} specialcases")
+print(f"Length of the Whole Imput {b}")
