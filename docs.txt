@@ -1,6 +1,6 @@
 GITPY/
 │
-├── Classwork/          # addition of the code
+├── Classwork/          # works done in class
 │   ├── ls.py
 │   └── ls1.py
     └── ls2.py
