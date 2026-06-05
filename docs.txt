@@ -1,0 +1,44 @@
+GITPY/
+│
+├── Classwork/          # addition of the code
+│   ├── ls.py
+│   └── ls1.py
+    └── ls2.py
+		└── ls3.py
+		└── ls4.py
+		└── ls5.py
+		└── ls6.py
+		└── str1.py
+│
+├── EXAM PREP/        # Unit tests
+│   └── ex1.py
+    └── ex2.py
+    └── ex3.py
+    └── ex4.py
+    └── ex5.py
+    └── ex6.py
+    └── ex7.py
+    └── ex8.py
+    └── ex9.py
+    
+│
+├──Loops/         # LOOPS OF PYTHON
+│   └──pattern.py
+    └── pattern2.py
+    └── pattern3.py
+    └── pn.py
+    └── pw1.py
+    └── pw2.py
+    └── pw3.py
+    └── pw4.py
+    └── pw5.py
+    └── pw6.py
+    └── pw7.py
+    └── pw8.py
+
+│
+├── String Programs/         
+│   └── st1.py
+│
+└── docs.txt
+└── readme.md
