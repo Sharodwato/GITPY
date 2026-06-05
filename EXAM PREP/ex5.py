@@ -1,4 +1,4 @@
-#reverse String
+#palindrom string
 s=str(input("Enter the string"))
 s1=""
 for s2 in s:
