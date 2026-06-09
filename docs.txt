@@ -20,6 +20,8 @@ GITPY/
     └── ex7.py
     └── ex8.py
     └── ex9.py
+    └── ex10.py
+    └── ex11.py
     
 │
 ├──Loops/         # LOOPS OF PYTHON
