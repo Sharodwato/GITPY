@@ -1,0 +1,5 @@
+#find the sqr root using math module
+import math as m
+x=int(input("enter the no"))
+p=m.sqrt(x)
+print(p)
