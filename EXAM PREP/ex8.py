@@ -8,14 +8,19 @@ def main():
     perfect(x)
 #armstrong Checking 
 def armstrong(p):
+    temp=p
+    c=0
+    while temp>0:
+        c+=1
+        temp//=10
     t=p
     s=0
     while t>0:
         f=t%10
-        s=s+(f**p)
-        t=t//10
-    if(t==s):
-        print("THIS IS ARMSTRONG{s}")
+        s+=f**c
+        t//=10
+    if s==p:
+        print(f"THIS IS ARMSTRONG {p}")
     else:
         print("Not Armstrong")
 #Palindrome Checking 
