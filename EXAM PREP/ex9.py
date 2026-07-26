@@ -1,7 +1,7 @@
 #Compute the greatest common divisor and least common multiple of two integers.  
 def main():
     x=int(input("Enter the First no"))
-    y=int(input("Enter the First no"))
+    y=int(input("Enter the Second  no"))
     print(gcd(x,y))
     print(lcm(x,y))
 #euclidean Greatest Common Divisor
