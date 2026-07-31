@@ -7,13 +7,13 @@ for chr in str :
 		if chr.isalpha():
 			if chr in vowels:
 			  nr+=1
-			else:
-			    nc+=1
-			    if chr.isupper():
-			      nupc+=1
-			    else:
-			        nlcc+=1
-	print(f"no of vowels = {nr}")
-	print(f"no of consonants = {nc}")
-	print(f"no of uppercase = {nupc}")
-	print(f"no of lowercase = {nlcc}")
+	        	else:
+			    	nc+=1
+			if chr.isupper():
+			    nupc+=1
+			    	else:
+			        	nlcc+=1
+print(f"no of vowels = {nr}")
+print(f"no of consonants = {nc}")
+print(f"no of uppercase = {nupc}")
+print(f"no of lowercase = {nlcc}")
